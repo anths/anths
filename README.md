@@ -43,6 +43,10 @@ You can get a list of your configured upstream repo names with:
 
 If GitHub is one of your remotes (you are here, after all),
 you'll probably want to go to the repository's settings and change the default there.
+Once you do this, you'll have both the new and old names in your remote repo.
+To delete the old name from your remote repo, so this:
+
+	git push origin --delete master
 
 ### Tell git to use better names by default.
 
