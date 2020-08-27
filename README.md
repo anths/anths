@@ -1,6 +1,6 @@
 # Hello, GitHub users.
 
-## GitHub, and it's parent company, Microsoft, continue their work with ICE.
+## GitHub, and its parent company, Microsoft, continue their work with ICE.
 
 As a community, we should be using other alternatives.
 I don't host any of my work here.
@@ -54,7 +54,7 @@ To make `git init` create a repo with a better name by default,
 add these lines to $HOME/.gitconfig or $HOME/.config/git/config:
 
 	[init]
-	     templateDir = ~/.config/git/template/
+		templateDir = ~/.config/git/template/
 
 Then make the template dir with a single line for
 
