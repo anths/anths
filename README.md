@@ -18,6 +18,8 @@ The default branch name in git, at least as of 2020, is both confusing,
 obscuring some of git's properties, and has some racist baggage behind it.
 [We should use a different name](http://a.9srv.net/b/master_in_tech),
 and git should change the default.
+To their credit, github has fixed the default branch, but git hasn't (yet?),
+and you can still get a nasty default if importing from elsewhere.
 Until git fixes this, you can correct things locally.
 
 ### Rename the default branch on a local repository:
@@ -75,5 +77,4 @@ For example, `git branch -m master 🌱` works fine. :-)
 You can find me
 online at [a.9srv.net](http://a.9srv.net),
 in the Fediverse🐘 as [a@pdx.social](https://pdx.social/a),
-on Twitter🐦 as [anths](https://twitter.com/anths),
 or in the physical world🗺, usually in Columbia County, Oregon.
